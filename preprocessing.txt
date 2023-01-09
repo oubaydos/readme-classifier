@@ -1,0 +1,4 @@
+TODO:
+* remove readme files containing non usual characters / non latin words / unicode or decode them:
+    - example res/maven/1.md
+*
