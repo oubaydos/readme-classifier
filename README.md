@@ -4,7 +4,7 @@ this is a classifier that is used to determine whether a github readme file is "
 this idea behind this project was to change the static classifier found in [DevOpsify](https://github.com/oubaydos/DevOpsify)
 
 ### score 
-for now the score for this model is *93%*, but i think there could be a problem of overfitting, i will do more tests 
+for now the score for this model is *94%*, but i think there could be a problem of overfitting, i will do more tests 
 
 ### example
 when given this Readme
